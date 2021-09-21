@@ -2,6 +2,24 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
+
+    <Authors>Bruno Barrette</Authors>
+    <Company>Bracket Show</Company>
+    <Product>BracketShow.ColorSchemePreferenceDetector</Product>
+    <Description>Color Scheme Preference Detector is a simple wrapper over the JS call to check on the user's preferences using the prefers-color-scheme media query</Description>
+    <IncludeSymbols>true</IncludeSymbols>
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <Copyright>Copyright 2021 (c) Bracket Show. All rights reserved.</Copyright>
+
+    <PackageId>BracketShow.ColorSchemePreferenceDetector</PackageId>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/BracketShow/ColorSchemePreferenceDetector</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/BracketShow/ColorSchemePreferenceDetector</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Bracket Show;Blazor;Color Scheme</PackageTags>
+
+    <PublishRepositoryUrl>true</PublishRepositoryUrl>
+    <EmbedUntrackedSources>true</EmbedUntrackedSources>
   </PropertyGroup>
 
   
